@@ -27,3 +27,8 @@ header {
 header.active {
     right: 0;
 }
+
+header .logo {
+    position: relative;
+    max-width: 80px;
+}
