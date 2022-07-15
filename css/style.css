@@ -69,3 +69,11 @@ header ul li a.active{
     display: inline-block;
     transform: scale(0.98);
 }
+
+.content {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
