@@ -77,3 +77,8 @@ header ul li a.active{
     justify-content: space-between;
     align-items: center;
 }
+
+.content .textBox {
+    position: relative;
+    max-width: 600px;
+}
