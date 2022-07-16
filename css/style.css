@@ -119,3 +119,7 @@ header ul li a.active{
     padding-right: 50px;
     margin-top: 50px;
 }
+
+.content .imgBox img {
+    max-width: 340px;
+}
