@@ -139,3 +139,7 @@ header ul li a.active{
     cursor: pointer;
     transition: 0.5s;
 }
+
+.thumb li:hover {
+    transform: translateY(-15px);
+}
