@@ -143,3 +143,7 @@ header ul li a.active{
 .thumb li:hover {
     transform: translateY(-15px);
 }
+
+.thumb li img {
+    max-width: 60px;
+}
