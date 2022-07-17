@@ -162,3 +162,10 @@ header ul li a.active{
 .sci li {
     list-style: none;
 }
+
+.sci li a {
+    display: inline-block;
+    margin: 5px 0;
+    transform: scale(0.6);
+    filter: invert(1);
+}
